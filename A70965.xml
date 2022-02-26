@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Read's case published for prevention of scandal to his brethren &amp; people, for encouragement to suffering Protestant dissenters, for a rebuke to their lawless adversaryes : being a leading-case how to deal with such men, and a practical answer to Dr. Stillingfleet, and others, who object against the non-conformists why will you not do what you confess to be lawful : humbly presented to our governours, in hopes of their forbearance towards us, in such things as we account sinful.</title>
+            <author>Read, Joseph, d. 1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70965</idno>
+            <idno type="STC">Wing R437</idno>
+            <idno type="STC">ESTC R13991</idno>
+            <idno type="EEBO-CITATION">12648596</idno>
+            <idno type="OCLC">ocm 12648596</idno>
+            <idno type="VID">65230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 143:4g or 775:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Read's case published for prevention of scandal to his brethren &amp; people, for encouragement to suffering Protestant dissenters, for a rebuke to their lawless adversaryes : being a leading-case how to deal with such men, and a practical answer to Dr. Stillingfleet, and others, who object against the non-conformists why will you not do what you confess to be lawful : humbly presented to our governours, in hopes of their forbearance towards us, in such things as we account sinful.</title>
+                  <author>Read, Joseph, d. 1713.</author>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy at reel 143:4 bound following "No Protestant-plot" (F756).</note>
+                  <note>Reproduction of originals in Huntington Library and Yale UniversityLibrary.</note>
+                  <note>Entry for M2272 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stillingfleet, Edward, 1635-1699.</term>
+               <term>Dissenters, Religious.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65230:1"/>
+            <pb facs="tcp:65230:1" rendition="simple:additions"/>
+            <p>Mr. Read's CASE: Publiſhed for Prevention of <hi>Scandal</hi> to his Brethren &amp; People, For Encouragement to Suffering Proteſtant Diſſenters, For a Rebuke to their Lawleſs Adverſaryes:</p>
+            <p>BEING A Leading-Caſe how to deal with Such Men; And a Practical Anſwer to Dr. <hi>Stillingfleet,</hi> and others, who Object againſt the Non-confor<g ref="char:EOLhyphen"/>miſts. <hi>Why will you not do what you Confeſs to be Lawful?</hi>
+            </p>
+            <p>Humbly preſented to Our <hi>Governours,</hi> in hopes of their Forbearance towards Us, in ſuch things as we Ac<g ref="char:EOLhyphen"/>count <hi>Sinful.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65230:2"/>
+            <pb n="3" facs="tcp:65230:2"/>
+            <head>Mr. Read's Caſe.</head>
+            <p>THe general Miſtake of People concern<g ref="char:EOLhyphen"/>ing <hi>Conformity</hi> and <hi>Nonconformity,</hi> and the miſchievous conſequence thereof, eſpe<g ref="char:EOLhyphen"/>cially in regard to my own Caſe, doth neceſſiate me to give the world ſome account of it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat I may thereby endeavour to cure the <hi>Preju<g ref="char:EOLhyphen"/>dice,</hi> and remove the <hi>Stumblingblocks</hi> that at preſent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie in their way: And the late rigorous execution of the penal Statutes upon <hi>Diſſenters,</hi> contrary to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he laſt Vote of the <hi>Houſe of Commons</hi> at <hi>Weſtminſter,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath put me upon many ſerious thoughts of heart, what may be done at ſuch a time as this, to op<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe the <hi>Popiſh</hi> deſign of introducing <hi>Popery,</hi> and invading of our <hi>Property.</hi>
+            </p>
+            <p>As the deſtroying of <hi>Religion</hi> and <hi>Property</hi> is their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd; ſo the reproaching, impoveriſhing, im<g ref="char:EOLhyphen"/>priſoning, and ruining of <hi>Proteſtants</hi> by railing Pamphlets, forging of Lies, ſuborning of Witneſ<g ref="char:EOLhyphen"/>ſes, incouraging mercenary Informers, preſenting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Biſhops Courts, Excommunicating, &amp;c. are the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eans</hi> for the attaining of theſe Ends.</p>
+            <p>
+               <pb n="4" facs="tcp:65230:3"/>But if People did conſider, that as <hi>Dividing</hi> and <hi>Deſtroying</hi> is the work of <hi>Papiſts;</hi> ſo <hi>Uniting</hi> and <hi>Healing</hi> of breaches is <hi>OUR</hi> work, and would act accordingly in their ſeveral places, <hi>THIS</hi> would prevent our Popiſh adverſaries in their De<g ref="char:EOLhyphen"/>ſignes againſt us. Let us do what we can with<g ref="char:EOLhyphen"/>out Sin in <hi>Obedience</hi> to <hi>Authority,</hi> and then when it comes to the Tryal, that we muſt either <hi>Sin</hi> or <hi>Suffer,</hi> it will be a great comfort to us, when we can truly ſay, that we have choſen to <hi>Suffer,</hi> either than to <hi>Sin.</hi>
+            </p>
+            <p>But if there be no <hi>Sin</hi> in the caſe, we muſt not expoſe our ſelves or people to ſufferings <hi>Cauſleſly.</hi> We cannot <hi>ſuffer joyfully the ſpoiling our Goods,</hi> the confinement of our <hi>Perſons,</hi> or the ruine of our <hi>Fa<g ref="char:EOLhyphen"/>milies;</hi> unleſs <hi>Conſcience</hi> be able truly to ſay, I would have done any thing but Sin againſt <hi>GOD,</hi> that I might have avoided theſe Sufferings from men.</p>
+            <p>It was the ſaying of a Reverend Miniſter Mr. <hi>J. B.</hi> of <hi>Worceſter,</hi> when he lay upon his Death-bed, and was asked what thoughts he had of his Non-conformity? <hi>I would have done any thing but Sin,</hi> ſaith he, <hi>that I might have continued in the exerciſe of my Miniſtery: but when it came to that, there was no remedy.</hi>
+            </p>
+            <p>This Miniſter read the <hi>Common-Prayer</hi> in his Church, when the KING deſired that the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="5" facs="tcp:65230:3"/>
+would read ſo much of it as they were ſatiſ<g ref="char:EOLhyphen"/>fied in their conſciences was lawful to be read, and a while after (on <hi>Bartholomew</hi> day, 1662.) turned out with the reſt of his Brethren.</p>
+            <p>Many more read the <hi>Common Prayer</hi> before, and yet proved Nonconformiſts after; and if <hi>that</hi> had been all that had been required of the Non-conformiſts, to read the <hi>Ordinary Lords-dayes-Service</hi> according to the Liturgy &amp; Practice of the Church of <hi>England,</hi> the moſt of the Nonconformiſts had continued in the exerciſe of their Miniſtry in Pub<g ref="char:EOLhyphen"/>lick as well as others.</p>
+            <p>Whereas therefore the Ignorant among us know not what <hi>Conformity</hi> or <hi>Nonconformity</hi> is, but account it offenſive, if a Miniſter read the <hi>Com<g ref="char:EOLhyphen"/>mon-Prayer,</hi> or go to the Publick Church, and joyn with thoſe that do read it, and are ready to refuſe Communion with thoſe <hi>Miniſters</hi> or <hi>Churches</hi> who uſe it: 'tis high time to rectifie this miſtake, &amp; teach them better; leſt by ſilence in theſe matters, the People run into the ſin of <hi>Schiſm</hi> indeed. Not on<g ref="char:EOLhyphen"/>ly to ſeparate from thoſe in the publick Churches, but from their own Paſtors, when once they re<g ref="char:EOLhyphen"/>duce their Principles into Practice, by reading ſo much of the <hi>Service</hi> as they approve of, and will ſatisfie the Law.</p>
+            <p>
+               <pb n="6" facs="tcp:65230:4"/>I ſhall therefore deſire All to take notice of three Laws made within theſe Twenty Years paſt, which the Nonconformiſts are ſufferers by.</p>
+            <p>The firſt is the <hi>Act</hi> of <hi>Uniformity</hi> requiring not on<g ref="char:EOLhyphen"/>ly the Reading of the <hi>Common-Prayer</hi> (which in the <hi>Ordinary Service</hi> I believe moſt of us do account law<g ref="char:EOLhyphen"/>ful) but it requires alſo, that openly and publick<g ref="char:EOLhyphen"/>ly we declare before the Congregation, <hi>Our un<g ref="char:EOLhyphen"/>feigned aſſent and conſent to all and every thing contained and preſcribed in and by the Book of</hi> Common-Prayer, <hi>and Adminiſtration of Sacraments, and other rites and ce<g ref="char:EOLhyphen"/>remonies of the Church, according to the uſe of the Church of</hi> England, <hi>together with the Pſalter, and the Form or Manner of Making, Ordaining, and Conſecrating of Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts; and Deacons.</hi> And in the ſame <hi>Act</hi> it is required, that we Declare and Subſcribe, that we <hi>will Conform to the Liturgy of the</hi> Church <hi>of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>as it is now by Law Eſtabliſhed,</hi> beſides what concerns the <hi>Renouncing</hi> of the <hi>Covenant,</hi> and <hi>Re-or<g ref="char:EOLhyphen"/>dination.</hi>
+            </p>
+            <p>There is a great deal of difference (let us note here) between <hi>All</hi> and <hi>Some;</hi> between <hi>Read<g ref="char:EOLhyphen"/>ing</hi> the <hi>ordinary Lords-Days-Service,</hi> and <hi>Approving</hi> the Book, and <hi>all that is in it.</hi> Mr. <hi>Baxter</hi> in his <hi>Plea for Peace,</hi> gives no leſs than Thirty particular Inſtan<g ref="char:EOLhyphen"/>ces of ſeveral things in the Common-Prayer-Book,
+<pb n="7" facs="tcp:65230:4"/>
+which the <hi>Non-conformiſts</hi> cannot declare their Aſ<g ref="char:EOLhyphen"/>ſent and Conſent unto. Such as will be at the pains to read them, may thereby underſtand that we are far from a full Conformity <hi>Throughout,</hi> not<g ref="char:EOLhyphen"/>withſtanding the Cenſures &amp; Reproaches of ſome againſt us as too Conformable, becauſe we de<g ref="char:EOLhyphen"/>clare by our Principles, and Practices, that we can lawfully not only <hi>Hear</hi> Common-Prayer, but <hi>Read</hi> it our ſelves: And yet though we cannot Con<g ref="char:EOLhyphen"/>form to the <hi>Law</hi> by doing all it commands, we have manifeſted by our Peaceable Submiſſion, that we can patiently ſuffer the Penalty it inflicts, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iz.</hi> The caſting us out of our Livings, and ren<g ref="char:EOLhyphen"/>dring us incapable of Church-Preferments for the time to come, with other Penalties there mentio<g ref="char:EOLhyphen"/>ned) until the King and Parliament ſhall ſee cauſe to relieve us.</p>
+            <p>Moſt of the Non-conforming Miniſters who can with a good Conſcience read Common-Pray<g ref="char:EOLhyphen"/>er, and thereby ſecure themſelves from the Penalty of the Conventicle-Act, cannot declare their <hi>un<g ref="char:EOLhyphen"/>feigned Aſſent and Conſent to the Book and all that is in it,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they might have the greateſt Preferments of Hundreds or Thouſands <hi>Per annum</hi> for their pains.</p>
+            <p>Another Law againſt <hi>Non-Conformiſts</hi> is <hi>that</hi> made at <hi>Oxford,</hi> (by ſome called the <hi>Five miles Act</hi>) for <hi>reſtraining Non-Conformiſts from Inhabiting in Cor<g ref="char:EOLhyphen"/>porations:</hi>
+               <pb n="8" facs="tcp:65230:5"/>
+the penalty whereof is ſix months Im<g ref="char:EOLhyphen"/>priſonment, unleſs upon or before ſuch Commit<g ref="char:EOLhyphen"/>ments, ſuch Offenders ſhall before the Juſtices of the Peace, Swear and Subſcribe this Oath fol<g ref="char:EOLhyphen"/>lowing: I A. B. <hi>do ſwear, that it is not lawful upon any pretence whatſoever to take Arms againſt the King; And that I do abhor that traiterous Poſition of taking Arms by his Authority againſt his Perſon, or againſt thoſe that are Commiſſionated by him in purſuance of ſuch Com<g ref="char:EOLhyphen"/>miſſions: And I will not at any time endeavour any altera<g ref="char:EOLhyphen"/>tion of Government in Church or State.</hi>
+            </p>
+            <p>Many of the <hi>Non-Conformiſts</hi> have taken this <hi>Oath,</hi> being ſatisfied in the ſenſe which all Law<g ref="char:EOLhyphen"/>yers that have diſcourſed do give of it, <hi>viz.</hi> that by <hi>Commiſſionated by him,</hi> we are to underſtand <hi>Legally Commiſſionated;</hi> and by <hi>Endeavouring any altera<g ref="char:EOLhyphen"/>tion of Government</hi> we are to underſtand it thus, that <hi>I will not endeavour it by any Seditious way, or Unlawful means.</hi>
+            </p>
+            <p>In <hi>this</hi> ſenſe I offered the <hi>Judges</hi> in open Court to take it (having before made the like offer to the <hi>Juſtices</hi>), but being tied up to the <hi>Words</hi> of the <hi>Oath,</hi> and not having then adviſed with Lawyers and others about the Senſe, as ſince I have done, I did therefore refuſe to take it, and ſuffered ſix months Impriſonment upon that account.</p>
+            <p>But being better ſatisfied about theſe things by
+<pb n="9" facs="tcp:65230:5"/>
+a Paper called <hi>The Sheriffs Caſe,</hi> printed 1680. and again reprinted 1681: And being further ſatisfied of the true ſenſe of this Oath, by Mr. <hi>Corbets</hi> account of the <hi>Non-conformiſts Principles and Practices</hi> p. 11, 14. and other writings of his not yet publi<g ref="char:EOLhyphen"/>ſhed: And eſpecially being fully ſatisfied of the lawfulneſs of taking the ſaid Oath, by particular Advice from <hi>Council</hi> learned in the Law, who bet<g ref="char:EOLhyphen"/>ter underſtand the meaning of Laws than we <hi>Miniſters</hi> do, who have told me, that an <hi>Illegal Commiſſion</hi> in law-ſenſe is <hi>no Commiſſion;</hi> and that the Parliament cannot be underſtood to prohibit <hi>Legal endeavors</hi> to make <hi>any alteration of Government,</hi> but only ſuch as are <hi>Illegal</hi> (for if ſo they ſhould by their practice contradict themſelves in the many endeavors that ſince they have made in a legal way): And laſtly, having received Inſtructions from the forementioned <hi>Sheriffs Caſe,</hi> how to de<g ref="char:EOLhyphen"/>clare our Senſe of the ſaid Oath, before, or at the time of taking it, in as publick a manner as we take it, that hereby we may avoid giving of ſcan<g ref="char:EOLhyphen"/>dal to others: And alſo being incouraged here<g ref="char:EOLhyphen"/>in by Mr. <hi>Baxters</hi> words in the life of Mr. <hi>Aſhurſt</hi> (quoted alſo in the ſaid <hi>Sheriffs Caſe</hi> printed 81.) owning thoſe as <hi>worthy</hi> Men who did what he <hi>refuſed</hi> (ſpeaking of <hi>All</hi> in the Corporation Act,
+<pb n="10" facs="tcp:65230:6"/>
+which is much more to be ſcrupled than this Oath <hi>alone</hi>) ſuppoſing that <hi>they in words or writing decla<g ref="char:EOLhyphen"/>red as openly as they ſwear, that they take it in ſuch or ſuch a lawful Senſe,</hi> p. 48: I ſay, upon theſe ſeveral Conſiderations I can <hi>Now</hi> with as good a Conſci<g ref="char:EOLhyphen"/>ence <hi>take</hi> the ſaid Oath, as formerly I did <hi>refuſe</hi> it. And therefore in the ſenſe as afore explained, and no other, (Delivering hereby my own <hi>Soul</hi>) I ſhall be ready, when call'd thereto by the Ma<g ref="char:EOLhyphen"/>giſtrate, to take the ſame in the words of the Act.</p>
+            <p>A Third Law made againſt Non-conformiſts is the <hi>Conventicle Act,</hi> made to <hi>prevent and ſuppreſs Seditious Conventicles:</hi> By the rigorous execution whereof, the <hi>People</hi> as well as the <hi>Miniſters</hi> have bin great ſufferers, though never any thing of <hi>Sedition</hi> could be <hi>Charged,</hi> much leſs <hi>proved</hi> againſt <hi>Me,</hi> or my <hi>Brethren</hi> that I can hear of.</p>
+            <p>Whether our many and great troubles upon this account are not <hi>ſelf-made</hi> Troubles, or long of our ſelves, hath many times been diſquieting to my mind.</p>
+            <p>About four or five years paſt, when the Infor<g ref="char:EOLhyphen"/>mers &amp; Officers were very troubleſome to us, and had taken away the Goods of ſome of the Con<g ref="char:EOLhyphen"/>gregation, I told my People at a Meeting of two
+<pb n="11" facs="tcp:65230:6"/>
+or three Hundred of them, that I ſaw how unable they were to bear ſuch Troubles and Loſſes, and that I could not be faithful to them, or to my own Conſcience, without telling them, that though I were not <hi>fond</hi> of the Common-Prayer, having never read it in my life, yet it was my judgment, and moſt of our Miniſters, that it was lawful to read it; and that by the reading of it they might be free from the penalty of this Law for the time to come, and therefore if they met with further troubles for want of reading it, they ſhould blame themſelves, and not me.</p>
+            <p>Some few were ſo weak, that for ſpeaking thoſe words, they never came within the Meeting-Place ſince that I can hear of: Some more (twenty or there about) were ſo much prejudiced againſt the uſing a Form of Prayer, that I found there was danger of making a preach amongſt us; and that a new-gathered Congre<g ref="char:EOLhyphen"/>gation could not bear ſo great a ſhaking, till they were a little better ſetled. I did therefore for the ſake of <hi>thoſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w,</hi> forbear to uſe it, contenting my ſelf only, with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eading the Scriptures, the Creed, Commandments, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the uſe of the Lords-Prayer.</p>
+            <p>And now at laſt, having firſt adviſed with my <hi>Bre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren</hi> in the Miniſtry, who acknowledge the lawful<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs of uſing of the Liturgy in the <hi>Ordinary-Lords-Days-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervice,</hi> and with <hi>Lawyers,</hi> who tell me, that the reading <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it will prove the <hi>Lawfulneſs</hi> of our <hi>Meeting,</hi> and ſecure
+<pb n="12" facs="tcp:65230:7"/>
+us from any further trouble: I have therefore begun to read it, and upon proof thereof, by ſeveral Witneſſes to the Grand Jury at <hi>Weſtmimſter</hi> this laſt Term, I brought in a Bill of Indictment againſt Juſtice <hi>Parry, Richard Toovey</hi> Diſtiller, <hi>John Pollard</hi> in <hi>Parkers</hi> Lane Infor<g ref="char:EOLhyphen"/>mer, and ſeveral others for a Ryot, in breaking o<g ref="char:EOLhyphen"/>pen the doors of my <hi>Meeting-Place,</hi> when our <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> was not <hi>in other manner than according to the Liturgy and Practice of the Church of England;</hi> And another Bill of Indictment for a Ryot againſt the ſaid Juſtice <hi>Parry, Thomas Harris</hi> Cheeſemonger, <hi>John Pollard, Stephen Leucas</hi> the <hi>Smith,</hi> and others, for breaking open the door of my dwelling-Houſe the Lords day before, where there was nothing of any <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> or <hi>Company</hi> to ground any pretence of an <hi>Un<g ref="char:EOLunhyphen"/>lawful Meeting</hi> upon.</p>
+            <p>The ſaid Jury have found both the Bills, and in due time I ſhall make further trial of this poin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Common Law, whether <hi>They</hi> or <hi>I</hi> are the tranſ<g ref="char:EOLhyphen"/>greſſors of it.</p>
+            <p>I am ſenſible that theſe things make a grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noiſe, and the mouths of many are opened againſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me. The railings and threatnings of prophan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Drunken <hi>Damme</hi>'s I matter not: I do not Arre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them and Indict them, for doing <hi>their Office,</hi> as the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are the Kings Officers, but for doing <hi>more than the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Office:</hi> If they have done well, they ſhall have praiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:65230:7"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame. Poſſibly they may have the repeated <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anks of a <hi>Middleſex</hi> Court of Juſtices: But we know <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat no Law is made <hi>for a Righteous Man,</hi> but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the <hi>Lawleſs and Diſobedient; for the Ungodly, and for Sinners; for the unholy and prophane; For Murderers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fathers, and Murderers of Mothers; for Manſlayers, for Whoremongers;</hi> I may add, for Houſe-breakers, and Sabbath-breakers; for Prophane Swearers and Drunk<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards; for idle prodigal ſpend-thrifts that care not to pay their debts. Such perſons as theſe, may find ſome others perhaps as Zealous for the ex<g ref="char:EOLhyphen"/>ecution of the KING'S Laws as themſelves, and Time will diſcover who are the KING'S beſt Subjects.</p>
+            <p>But there is another ſort, whom I am concerned to give all due ſatisfaction to; that is, to my <hi>Brethren</hi> the <hi>Miniſters,</hi> who are not under the like circum<g ref="char:EOLhyphen"/>ſtances with me, and therefore may not think fit to do what I have done; and to my <hi>People</hi> among whom I have laboured near ſeven Years, not with<g ref="char:EOLhyphen"/>out good encouragement and ſucceſs, and therefore I a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very tender leſt I ſhould juſtly offend the one or the other. If there be any one then that ſhaketh the head, and ſaith, <hi>I wonder that</hi> Mr. Read <hi>ſhould read the Common-Prayer?</hi> I anſwer, which of you convin<g ref="char:EOLhyphen"/>ceth me of Sin? <hi>If I have done Iniquity, I will do ſo no more;</hi> or <hi>If I have done evil,</hi> (in reading the Li<g ref="char:EOLhyphen"/>turgy)
+<pb n="14" facs="tcp:65230:8"/>
+               <hi>bear witneſs of the evil;</hi> but if well, why <hi>judg<g ref="char:EOLunhyphen"/>eſt thou thy Brother?</hi>
+            </p>
+            <p>I confeſs my <hi>Practice,</hi> is yet <hi>Singular,</hi> and perhap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the firſt publick inſtance of this nature in <hi>England,</hi> ſo far as I can underſtand: But the <hi>Principles</hi> on which it is grounded, are undeniable, and far from the im<g ref="char:EOLhyphen"/>putation of Singularity. Yea, and the Practice too of uſing a Publick <hi>Liturgy,</hi> or form of <hi>Prayer</hi> in Publick aſſemblyes for the Worſhip of God, is of ſuch univer<g ref="char:EOLhyphen"/>ſal extent, that there are few Churches in the World without it, ſo far as I can underſtand.</p>
+            <p>The principles I go upon are ſuch as theſe, <hi>viz.</hi> That obedience to the Magiſtrate in things lawful, is a duty. That a form of <hi>Prayer</hi> is Lawful. That it is the Paſtors work upon good advice, to judg of the expediency of uſeing ſuch a form of Prayer, by the general rules of <hi>doing all to the Glory of God,</hi> edifica<g ref="char:EOLhyphen"/>tion of his People, and the publick good. That Communion with ſuch Churches who uſe a form of Prayer is lawful alſo, ſuppoſing they do not make any thing that is <hi>Sinful</hi> the <hi>Terms</hi> of their Communion.</p>
+            <p>Whether theſe Principles are not ackowledged as ſound by the Brethren of all perſwaſions, and whether my practice be not agreeable to theſe Principles, I ſub<g ref="char:EOLhyphen"/>mit to the Judgment of others.</p>
+            <p>Mr. <hi>Nye,</hi> a leading Man among our Brethren the <hi>In<g ref="char:EOLhyphen"/>dependents,</hi> hath proved it lawful to hear a Pariſh Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r;
+<pb n="15" facs="tcp:65230:8"/>
+And Mr. <hi>Tombs,</hi> as eminent among the <hi>Anabaptiſts,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e a Book to prove it lawful both to hear and com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nicate with them; And his Practice at <hi>Salisbury</hi> was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nformable thereto. Many of our Brethren here a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <hi>London</hi> go to the Pariſh Churches, and hear <hi>Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-Prayer</hi> there, and ſome of them communicate with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſometimes. The <hi>Non-Conformiſts</hi> both <hi>Miniſters</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>People</hi> in many places, through the Land, go to their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſh Churches, and maintain Peace and Love by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccaſional Communion with them.</p>
+            <p>Many of our Brethren did read the <hi>Common-Prayer,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore they turned out of their Livings as I before <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; and would they not be glad to read it again, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereby they might have the exerciſe of their Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and their Maintenance reſtored? And if upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe terms they could read it at the <hi>Church</hi> (ſuppoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>Gile</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) then why may not I read it in the <hi>Chappel</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re at <hi>Bloomsbury</hi>)? If I may Judg of the <hi>Non-Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iſts</hi> in other Countryes by thoſe in <hi>Worcester<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> where I lived, I do verily believe there is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one in ten, but would be thankful to <hi>GOD</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Man, if they might be reſtored to their Livings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doing only what I have done. <hi>Therefore thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nexcuſable O Man, whoever thou art that Judgeſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brother.</hi> For that which thou judgeſt law<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be done by another, thou forbeareſt thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: and becauſe thou forbeareſt doing it thy ſelf,
+<pb n="16" facs="tcp:65230:9"/>
+thou condemneſt him. I will repeat this wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only to my Bretheren, If there be <hi>Sin</hi> in the <hi>Caſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> I ſhall chooſe to <hi>Suffer</hi> rather than <hi>Sin,</hi> as foot a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am convinced of it.</p>
+            <p>As for ſatisfaction to the Scrupulous and well meaning Chriſtians among us, whoſe minds ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo much prejudiced againſt the <hi>Publick</hi> Miniſtry and the <hi>Way</hi> of their <hi>Worſhip,</hi> and therefore wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not bear the uſe of the <hi>Liturgy</hi> of the Church in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Unexceptionable part of the ordinary Service but cry out againſt it as <hi>Will-Worſhip, Antichriſtian, I<g ref="char:EOLunhyphen"/>dolatry</hi> and the like, <hi>I</hi> ſhall in <hi>General</hi> only ſay the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much. If they will go to the Miniſters of <hi>Chriſt</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>little Children,</hi> that is, as <hi>humble learners,</hi> willing to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taught; and by converſe with them, and other unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtanding Chriſtians, as alſo by ſearching into the <hi>Scri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tures,</hi> and reading of good Books, will endeavour th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cure,</hi> or at leaſtwiſe the <hi>Abating,</hi> of their Prejudice; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doubt not but we ſhall quickly be more like minde in theſe things. And if then they will lay aſide An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>moſities, and be ſo humble as to think ſoberly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves, and weigh the Judgment of thoſe wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whom they Conſult, who better underſtand the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things than they, it's like they will be more read<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Judg, or be Aſhamed, of themſelves, than t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cenſure me, and ſuch as joyn with me.</p>
+            <p>
+               <pb n="17" facs="tcp:65230:9"/>In particular, next I muſt refer them to ſuch Godly, Learned, Judicious, and peacea<g ref="char:EOLhyphen"/>ble Authors, as theſe hereafter mentioned, <hi>viz.</hi> Mr. <hi>Nye,</hi> Dr. <hi>Owen,</hi> Mr. <hi>Ball,</hi> Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter,</hi> and Mr. <hi>Corbett,</hi> ſuppoſing they will be ſatisfied by what they have Publiſhed, when they will not by any thing I can ſay or write on this Subject.</p>
+            <p>Mr. <hi>Ney,</hi> in his Caſe conſidered, <hi>Whether <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may lawfully hear the now Conforming Mi<g ref="char:EOLhyphen"/>niſters, who are Re-ordain'd, and have renoun<g ref="char:EOLhyphen"/>ced the Covenant, and ſome of them ſuppoſed to be ſcandalous in their lives?</hi> anſwers affir<g ref="char:EOLhyphen"/>matively, <hi>pag.</hi> 4. That <hi>it is a Duty that we and our Families frequent (as we have liberty and opportunity) the more publick and national Miniſtry,</hi> and gives us this as one Reaſon, pag. 5. <hi>As we are Members of Churches, ſo we are Subjects and Members of this Com<g ref="char:EOLhyphen"/>mon-wealth, and are obliged thereby to obſerve
+<pb n="18" facs="tcp:65230:10"/>
+the lawful Commands of our Governours, and to be Examples therein to others.</hi>
+            </p>
+            <p>
+               <q>And again, p. 6. If Church Members, or a<g ref="char:EOLhyphen"/>ny one Godly Man, hath a Warrant to for<g ref="char:EOLhyphen"/>bear hearing ſuch Miniſters upon this ac<g ref="char:EOLhyphen"/>count of unlawfulneſs, then all Godly Men ought at all times ſo to do; and if ſo, the Examples of the Godly to the generality being very leading in the Matters of God, this Ordinance thereby will be little fre<g ref="char:EOLhyphen"/>quented, and of leſs Efficacy to thoſe that do come to it; and by aſſerting it unlaw<g ref="char:EOLhyphen"/>ful to hear ſuch Miniſters, we imply it were better for the Nation, there were no Preach<g ref="char:EOLhyphen"/>ing but in particular Churches; and if ſo, what can we expect will become of ma<g ref="char:EOLhyphen"/>ny thouſands, in an ordinary way of Salva<g ref="char:EOLhyphen"/>tion, that have no benefit at all by our Church-inſtructions? We are to walk wiſe<g ref="char:EOLhyphen"/>ly, yea mercifully towards them that are without.</q>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:65230:10"/>And towards the concluſion, p. 24. he tells us, That <hi>this is one of the miſperſwaſions of theſe latter Times, by which Mens Minds have been corrupted, that it is unlawful to hear in Publick, which I am perſwaded</hi> (ſaith he) <hi>is one conſtant deſign of Satan, in the variety of wayes in Religion he hath ſet on foot by Jeſuits among us. Let us therefore be the more aware of whatever tends that way.</hi>
+            </p>
+            <p>Even Dr. <hi>Owen,</hi> who in his Diſcourſe of the work of the Spirit in Prayer, writes a<g ref="char:EOLhyphen"/>gainſt the making or compoſing of Forms of Prayer for our ſelves to be uſed private<g ref="char:EOLhyphen"/>ly, deſires the Reader, p. 220. to obſerve that he <hi>doth not argue againſt Forms of Prayer as unlawful to be uſed;</hi> and, p. 222. he grants, that <hi>Men or Churches may agree upon a preſcribed Form by common conſent, as judg<g ref="char:EOLhyphen"/>ing and avowing it beſt for their own Edi<g ref="char:EOLhyphen"/>fication.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:65230:11"/>Again, p. 228. <q>Whether they are ap<g ref="char:EOLhyphen"/>proved or diſapproved of God, whether they are lawful or unlawful, we do not conſider, but only whether they are for Spiritual benefit and advantage for the good of our own Souls, and the Edi<g ref="char:EOLhyphen"/>fication of others, as ſet up in com<g ref="char:EOLhyphen"/>petition with the Gift before deſcribed.</q>
+So that it ſeems the Dr. doth not judge ſuch Forms of Prayer unlawful which are for the good of our own Souls, and the Edi<g ref="char:EOLhyphen"/>fication of others, and which are not in competition with the Gift before deſcri<g ref="char:EOLhyphen"/>bed.</p>
+            <p>
+               <q>And therefore (p. 231, and 232.) ſup<g ref="char:EOLhyphen"/>poſing that thoſe who make uſe of, and plead for Forms of Prayer, eſpecially in publick, do in a due manner prepare them<g ref="char:EOLhyphen"/>ſelves for it by holy meditation, with an endeavour to bring their Souls into a ho<g ref="char:EOLhyphen"/>ly
+<pb n="21" facs="tcp:65230:11"/>
+frame of fear, delight and reverence of God; let it alſo be ſuppoſed that they have a good end and deſign in the Wor<g ref="char:EOLhyphen"/>ſhip they addreſs themſelves unto, namely the Glory of God, and their own Spiri<g ref="char:EOLhyphen"/>tual advantage; the Prayers themſelves, though they ſhould be in ſome things ir<g ref="char:EOLhyphen"/>regular, may give occaſion to exerciſe thoſe acts of Grace which they were o<g ref="char:EOLhyphen"/>therwiſe prepared for: And I ſay yet further, that whilſt theſe Forms of Prayer are cloathed with the general notions of Prayer, that is, are eſteemed as ſuch in the minds of them that uſe them, are ac<g ref="char:EOLhyphen"/>companied in their uſe with the mo<g ref="char:EOLhyphen"/>tives and ends of Prayer, expreſs no mat<g ref="char:EOLhyphen"/>ter unlawful to be inſiſted on in Prayer, directing the Souls of Men to none but lawful Objects of Divine Worſhip and Prayer, the Father, Son, and Holy Spirit; and whilſt men make uſe of them with the true deſign of Prayer, looking after
+<pb n="22" facs="tcp:65230:12"/>
+due aſſiſtance unto Prayer, I do not judge there is any ſuch evil in them, as that God will not Communicate his Spirit to any in the uſe of them, ſo as that they ſhould have no holy Communion with him in and under them. Much leſs will I ſay, that God never therein regards their Perſons, or re<g ref="char:EOLhyphen"/>jects their praying as unlawful: For the Perſons and Duties of Men may be ac<g ref="char:EOLhyphen"/>cepted with God, when they walk and act in ſincerity according to their light, though in many things, and thoſe of no ſmall importance, ſundry irregularities are found both in what they do, and in the man<g ref="char:EOLhyphen"/>ner of doing it. Where Perſons walk be<g ref="char:EOLhyphen"/>fore God in their Integrity, and practiſe nothing contrary to their light and con<g ref="char:EOLhyphen"/>viction in his Worſhip, God is merciful unto them, although they order not e<g ref="char:EOLhyphen"/>very thing according to the Rule and Meaſure of the Word. So was it with them who came to the Paſſover in the days of
+<pb n="23" facs="tcp:65230:12"/>
+                  <hi>Hezekiah, they had not cleanſed themſelves, but did eat the Paſſover otherwiſe than it was written,</hi> 2 Chron. 30.18.</q>
+            </p>
+            <p>And, p. 235. He grants that ſuch Forms of Prayer <hi>have not any intrinſical evil in the compoſition of them;</hi> but argues againſt the <hi>ſetting up</hi> and preſcribing ſuch <hi>Forms of Prayer</hi> Univerſally, <hi>in oppoſition, and unto the excluſion of free Prayer.</hi>
+            </p>
+            <p>And, p. 236. <q>If they appear not con<g ref="char:EOLhyphen"/>trary unto, or inconſiſtent with, or are not uſed in a way excluſive of that work of the Holy Spirit in Prayer which we have deſcribed from the Scripture, nor are re<g ref="char:EOLunhyphen"/>ducible to any divine prohibition, I ſhall not contend with any about them.</q>
+            </p>
+            <p>Mr. <hi>Baxters</hi> Cure of Church-diviſions, I recommend to the reading of ſuch as lie under the temptation of unwarrantable Se<g ref="char:EOLhyphen"/>paration,
+<pb n="24" facs="tcp:65230:13"/>
+as alſo Mr. <hi>Ball</hi> of that Subject at large. The whole of them is ſo uſeful, that I do not think fit to Tranſcribe any thing of either of them: But I will give you a little of what Mr. <hi>Baxter</hi> hath writ<g ref="char:EOLhyphen"/>ten, not only as his own judgment, but other Miniſters of his converſe and acquain<g ref="char:EOLhyphen"/>tance, in his <hi>Second Plea for Peace,</hi> ſhew<g ref="char:EOLhyphen"/>ing what <hi>Non-conformity</hi> is not.</p>
+            <p>Page 100. <q>We are far from condem<g ref="char:EOLhyphen"/>ning all Forms of Prayer and publick Li<g ref="char:EOLhyphen"/>turgies as unlawful, of which we have His Majeſties Teſtimony in his <hi>Declaration</hi> a<g ref="char:EOLhyphen"/>bout <hi>Eccleſiaſtical Affairs,</hi> much more are we far from condemning all the Ancient and preſent Churches of Chriſt that have uſed ſuch, or yet uſe them, throughout the Chriſtian World; and yet further are we from Separating from them on that ac<g ref="char:EOLhyphen"/>count (for uſing Liturgies) and from en<g ref="char:EOLhyphen"/>couraging ſuch a Separation.</q>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:65230:13"/>And, <hi>p.</hi> 101. We think it not unlawful to uſe as much of the <hi>Engliſh</hi> Liturgy as we conſented to uſe, when by His Majeſties Commiſſion ſome of us treated about the Reformation or Alteration of it, <hi>viz.</hi> in ſuch Aſſemblies where the Peoples incapaci<g ref="char:EOLhyphen"/>ty maketh not ſuch uſe of it more hurt<g ref="char:EOLhyphen"/>ful then helpful to their Edification. And we joyn with Mr. <hi>Ball,</hi> and others of the old <hi>Non-conformiſts,</hi> in thanking God that <hi>England</hi> hath a more reformed Liturgy than moſt of the Churches in the World. We are far from judging the Pariſh-Miniſters to be no true Miniſters of Chriſt, or the Pa<g ref="char:EOLhyphen"/>riſh-Churches no true Churches, or judg<g ref="char:EOLhyphen"/>ing it unlawful to hold Communion with them.</p>
+            <p>Mr. <hi>Corbett,</hi> in his <hi>Account of the Princi<g ref="char:EOLhyphen"/>ples and Practiſes of the</hi> Non-conformiſts, Page 4. ſaith, We acknowledge the law<g ref="char:EOLhyphen"/>fulneſs of a Set Form of Liturgy, for mat<g ref="char:EOLhyphen"/>ter
+<pb n="26" facs="tcp:65230:14"/>
+agreeable to Gods Word, and ſuited to the nature of the ſeveral Ordinances, and to the neceſſities of the Church. Yet the Miniſter ſhould not be ſo confined to it, as not to make uſe of his own Gifts of Pray<g ref="char:EOLhyphen"/>er and Exhortation.</p>
+            <p>
+               <hi>Page</hi> 8. Moreover we hold not our ſelves obliged to forſake a true Church, as no Church, for the corruptions and diſorders found therein; or to Separate from its Wor<g ref="char:EOLhyphen"/>ſhip, for the tolerable fauls thereof, while our perſonal profeſſion of ſome Errour, or Practice of ſome Evil, is not required as the Terms of our Communinion. Howbeit we are not ſo indifferent in this matter, as to make no difference between Churches, and Paſtors: The more pure and powerful Adminiſtration of Gods Ordinances, is to be preferred before that which is more faulty and leſs effectual: And here again we ac<g ref="char:EOLhyphen"/>knowledge, that in this preference due cauti<g ref="char:EOLhyphen"/>on muſt be uſed: We muſt not reſpect our
+<pb n="27" facs="tcp:65230:14"/>
+own particular benefit, before publick Peace and Order, and the general good.</p>
+            <p>
+               <hi>Page</hi> 9. It is our Principle, That Humane Laws bind the Conſcience, or (to ſpeak more properly) the Subjects in point of Conſcience, not by a primary Obligation, as the Laws of God do, but by a ſecondary and ſubordi<g ref="char:EOLhyphen"/>nate, as from a power derived from God. As it is an evident and important Truth, That Inferiours ought to obey their Superiours for Conſcience ſake; ſo it is as evident and important, That when Mens Commands contradict the Commands of God, it is God and not Man that muſt have the prehemi<g ref="char:EOLhyphen"/>nence in our Obedience.</p>
+            <p>
+               <hi>Page</hi> 21. We renounce not Communion in the publick Worſhip of the Pariſh-Church<g ref="char:EOLhyphen"/>es, though for its outward Form and Order, in ſome reſpects, it be not that which is moſt deſirable by us.</p>
+            <p>
+               <hi>Page</hi> 26. We have not forſaken the Paro<g ref="char:EOLhyphen"/>chial Aſſemblies, but have joyned in the
+<pb n="28" facs="tcp:65230:15"/>
+Service of God there performed, and ſome of us do it in our ordinary courſe, and o<g ref="char:EOLhyphen"/>thers of us have not declined it of ſet pur<g ref="char:EOLhyphen"/>poſe, but as our abſence is cauſed by that neceſſary Work of the Miniſtry, whereun<g ref="char:EOLhyphen"/>to we are called: Some of us have Com<g ref="char:EOLhyphen"/>municated with the ſaid Aſſemblies in the Sacrament of the Lords Supper: Yet we would not have our Charity and Peacea<g ref="char:EOLhyphen"/>bleneſs miſtaken for an indifferency unto Communion with all Parochial Churches and Miniſters whatſoever, or for a full ſa<g ref="char:EOLhyphen"/>tisfaction or acquieſcence in the whole, and all particulars of the Liturgy, ſo as to be able to declare our unfeigned Aſſent and Con<g ref="char:EOLhyphen"/>ſent to all and every thing therein contained.</p>
+            <p>
+               <hi>Page.</hi> 30. Whereas a remarkable Writer hath publiſhed theſe words, (<hi>We ſhould be reconciled, if the</hi> Presbyterian <hi>Miniſters would perſwade their People to do what they can do themſelves.</hi>) We declare to the World that
+<pb n="29" facs="tcp:65230:15"/>
+we heartily embrace theſe Terms of Recon<g ref="char:EOLhyphen"/>ciliation; and as we have done already, we will not ceaſe to do our uttermoſt to per<g ref="char:EOLhyphen"/>ſwade them, upon whom we have any in<g ref="char:EOLhyphen"/>fluence; and we would gladly come to the Tryal, to ſee which Party ſhould outvie the other in forwardneſs in allaying the pre<g ref="char:EOLhyphen"/>ſent Diſtempers, and leſſening the Differen<g ref="char:EOLhyphen"/>ces, and drawing on towards Peace and U<g ref="char:EOLhyphen"/>nion. We have here done our part to re<g ref="char:EOLhyphen"/>move the Offences taken at us, by teſti<g ref="char:EOLhyphen"/>fying to all Men, that conſcientious diſſa<g ref="char:EOLhyphen"/>tisfaction, and not Carnal Intereſt, or a Spirit of oppoſition, is the ground of our Non-conformity: And to bring ſuch as differ from us to be in more Charity with us, than to judge that we are utterly unworthy or uncapable of the publick Miniſtry, or that ſuch Perſons as for ignorance and lewd<g ref="char:EOLhyphen"/>neſs are ſcandalous and contemptible a<g ref="char:EOLhyphen"/>mong their Neighbours, are more tolera<g ref="char:EOLhyphen"/>ble in Sacred Office than we are, or that
+<pb n="30" facs="tcp:65230:16"/>
+groſs Inſufficiency, Non-reſidence, and other hanious negligence, ſhould be made leſs Cri<g ref="char:EOLhyphen"/>minal than our diſſent about the Ceremo<g ref="char:EOLhyphen"/>nies, Subſcriptions, Renunciations, and ſuch like Injunctions. We ſubmit what we have done to the Wiſdom, Piety, and Cle<g ref="char:EOLhyphen"/>mency of our Governours; we acquieſce in Gods Wiſe and Holy Determinations con<g ref="char:EOLhyphen"/>cerning us: And we reſolve through his Grace to abide ſtedfaſt and unmoveable in our Subjection and Loyalty to our Sove<g ref="char:EOLhyphen"/>reign, in our due Obedience to thoſe that are put in Authority under him, in our earneſt endeavour of Holineſs, Unity, and Peace in the Church, in Brotherly love to all Faithful Chriſtians, in Charity to all men, and in the Faith and Patience of the Diſciples and Ser<g ref="char:EOLhyphen"/>vants of Jeſus Chriſt.</p>
+            <p>I will only add his Senſe of the <hi>Oxford Oath,</hi> which I heartily ſubſcribe to, <hi>p.</hi> 11. When the higher Powers command what God forbids, though we are bound not to perform it, yet we muſt be ſubject, and not reſiſt, but
+<pb n="31" facs="tcp:65230:16"/>
+patiently ſubmit to Suffering. The Cauſe of Religion doth not warrant Subjects to take Arms againſt their lawful Prince, nor may they by armed Violence againſt Authority, attempt the publick Reformation thereof. We hold, that it is unlawful, by the Conſtitu<g ref="char:EOLhyphen"/>tions and Laws of this Kingdom, for any Subjects to take Arms againſt the King, his Office, Authority, or Perſon, or by force of Arms to reſiſt any Magiſtrate or Officer legally Commiſſionated or Authorized by him; yea, Subjects are bound not only not to reſiſt, but to aſſiſt and defend their So<g ref="char:EOLhyphen"/>vereign with their Eſtates, and Lives; and the Preachers of the Goſpel ought to teach the People Obedience and Loyalty, and to endeavour to root out all Principles of Se<g ref="char:EOLhyphen"/>dition, Rebellion, and Diſobedience. We believe that we are under no Bond or Ob<g ref="char:EOLhyphen"/>ligation to act any thing contrary to theſe our avowed Principles. And we further make known our deteſtation of all the Indignity
+<pb n="32" facs="tcp:65230:17"/>
+and Violence offered to the Perſon of our late Sovereign, and eſpecially that moſt hor<g ref="char:EOLhyphen"/>rid execrable Fact of taking away his Life, as alſo the Uſurpations and violent change of the Goverment that did accompany the ſame, againſt which Crimes, while they were carried on, the Brethren of our Perſwaſion openly proteſted, even to the Faces of the Actors.</p>
+            <p>And. <hi>p.</hi> 14. We declare, That we will not endeavour any alteration of the Govern<g ref="char:EOLhyphen"/>ment in Church or State, as it is in the King, whoſe Civil and Eccleſiaſtical Supremacy we have before acknowledged; nor the al<g ref="char:EOLhyphen"/>teration of the true Epiſcopal Office which Chriſt hath ſettled in his Church; nor will we endeavour any alteration in the Church, by any Seditious or unlawful means, but only by Prayer to God, by humbly petition<g ref="char:EOLhyphen"/>ing our Superiours, or obeying the King if he Command it, or ſuch like lawful means as belong to us in our Places and Callings.</p>
+            <p>
+               <pb n="31" facs="tcp:65230:17"/>If the names of <hi>Ball, Baxter</hi> and <hi>Corbet,</hi> ſound harſh with ſome of you methinks however the names of <hi>Tombs, Nye</hi> and <hi>Owen,</hi> ſhould make a greater figure among you, and be of greater Authority with ſuch as have not pati<g ref="char:EOLhyphen"/>ence to hear the <hi>Name,</hi> much leſs the <hi>Thing</hi> called <hi>Com-Prayer.</hi>
+            </p>
+            <p>If at the mouth of two or three witneſſes the matter ſhall be eſtabliſhed, <hi>Deut.</hi> 19.15. Here is the teſtimo<g ref="char:EOLhyphen"/>ny of three of your <hi>own,</hi> as well as three more of the <hi>o<g ref="char:EOLhyphen"/>ther</hi> ſide, againſt ſuch as refuſe Communion, with ſuch Miniſters and Churches who do much more than I have done.</p>
+            <p>Will you not hear Mr. <hi>Nye</hi> tel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing you your du<g ref="char:EOLhyphen"/>ty, That <hi>you and your Families ſhould frequent the publick Miniſtry,</hi> That <hi>you are obliged to obſerve the law<g ref="char:EOLhyphen"/>ful Commands of your Governours,</hi> That this principle, <hi>That it is unlawful to hear in publick, is a miſperſua<g ref="char:EOLhyphen"/>ſion of theſe latter times ſet on foot by the Jeſuits?</hi> Will you not hear Dr. <hi>Owen</hi> telling you that he doth not <hi>argue againſt</hi> forms of Prayer as unlawful to be uſed; That, <hi>whilſt you make uſe of them with the true deſign of Prayer, looking after due aſſiſtance unto Prayer, he doth not jude there is any ſuch evil in them, as that God will not Communicate his Spirit to any in the uſe of them,</hi> &amp;c. Will you let me add one more paſſage in his Preface? <hi>I do not ſay the fatal Conſequence of the introduction of human deviſed ſet forms of Prayer in the worſhip of the Church, by the horrible abuſe of it, is ſuf<g ref="char:EOLhyphen"/>ficient to condemn them as abſolutely unlawful.</hi> Will you have no regard to the Miniſters of all perſuaſions, who tell you by their principles and practices the lawfulneſs
+<pb n="32" facs="tcp:65230:18"/>
+of what I do? Behold a greater than Dr. <hi>Owen, &amp;c.</hi> is here, the <hi>Apoſtle</hi> of the <hi>Gentiles,</hi> great Saint <hi>Paul,</hi> telling you, that unto the <hi>Jews</hi> he became as a <hi>Jew</hi> that he might gain the <hi>Jews, &amp;c.</hi> To the weak he became as weak that he might gain the weak: I am made all things ſaith he, to all men, that I might by all means ſave ſome, 1 <hi>Cor.</hi> 9.20. <hi>&amp;c.</hi> And he was ſo zealous for the ſaving of Souls that he could condeſcend to any thing that might be done with a good Conſcience. His own practice was the beſt comment on this Text, in taking <hi>Timothy</hi> to him as his Aſſiſtant or fellow-labourer in the Goſpel, and <hi>Circumciſing him becauſe of the</hi> Jews <hi>that were in thoſe quarters, for they knew all that his Father was a</hi> Greek, Acts 16.3. Here is a piece of condeſcen<g ref="char:EOLhyphen"/>tion indeed; a far greater piece of Conformity than the reading of a form of Prayer. <hi>Timothy</hi> had the repute of a <hi>Gentile,</hi> but becomes a <hi>Jew,</hi> that he might gain the <hi>Jews:</hi> And <hi>Paul</hi> chooſeth to make uſe of him as his part<g ref="char:EOLhyphen"/>ner in his Miniſtry, that his Preaching might be the more acceptable to the <hi>Jews</hi> in thoſe quarters. See alſo the advice of <hi>James</hi> and the other Elders to <hi>Paul,</hi> Acts 21.18. <hi>&amp;c.</hi> when he came to <hi>Jeruſalem. Thou ſeeſt Brother how many thouſands of</hi> Jews <hi>there are which be<g ref="char:EOLhyphen"/>lieve, and they are all zealous of the Law,</hi> ver. 20. <hi>and they are informed of thee that thou teacheſt all the</hi> Jews <hi>which are among the</hi> Gentiles <hi>to forſake</hi> Moſes, <hi>ſaying that they ought not to Circumciſe their Children,</hi> &amp;c. <hi>Do therefore this that we ſay to thee: We have four Men which have a vow on them; them take, and purifie thy ſelf with them, that they may ſhave their heads, and all may know that thoſe things whereof they were informed concerning
+<pb n="33" facs="tcp:65230:18"/>
+thee are nothing, but that thou thy ſelf walkeſt orderly, and keepeſt the Law, ver,</hi> 24. <hi>&amp;c.</hi> And ſhould not I and other Miniſters walk as we have <hi>Paul</hi> for our ex<g ref="char:EOLhyphen"/>ample? Give me leave to apply this piece of Conformi<g ref="char:EOLhyphen"/>ty in him to our preſent caſe. You ſee how many thou<g ref="char:EOLhyphen"/>ſands in this Pariſh and many others are as zealous for Common-Prayer (as ſome very few are zealous againſt it) and they are miſinformed that <hi>I</hi> and other Noncon<g ref="char:EOLhyphen"/>formiſts teach the people Rebellion, and that we inſtill into them the principles of Schiſm, and draw them away from the Publick Miniſtry and Ordinances; Therefore that we may convince gainſayers that theſe things whereof the people are informed againſt us are nothing, but that we alſo walk orderly and keep the Law, I have thought fit to do what I have done in obedience to the Law of the Land, that hereby I may be inſtrumental of gaining ſome Souls to Chriſt of theſe many thouſands that are ready to Periſh for lack of knowledge. Re<g ref="char:EOLhyphen"/>member Mr. <hi>Nyes</hi> words, that <hi>we are to walk wiſely yea, mercifully towards them that are without.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> If theſe be your Principles that it is lawful to read and hear Common Prayer, why did you not do it at firſt and conform as the reſt of the Miniſters in the Pariſh Churches?</p>
+            <p>
+               <hi>Anſw.</hi> I have told you already, if that only had been required of us, we had done it; but other things being required which we account ſinful, we rather choſe the pleaſing of God and the peace of our Conſciences in a way of duty, than honours and preferments from men in a way of ſin.</p>
+            <p>
+               <hi>Object.</hi> If the Common-Prayer be read at your meet<g ref="char:EOLhyphen"/>ing-place,
+<pb n="34" facs="tcp:65230:19"/>
+we will rather go to the Pariſh Church and hear it there.</p>
+            <p>
+               <hi>Anſw.</hi> If you think you have not enough of it with us, you may go to Church and have more: But if you account what I read too much, you argue perverſly in talking of going to them who do more than I have done. But I anſwer further, I have not, I will not in the leaſt diſcourage your going to the Publick Aſſemblies. The ſame Goſpel is Preached with them as with us, and with ſome of them, I doubt not, more judiciouſly, and perhaps more profitably than by ſuch as I, and whether may be more proſperous this or that we know not: So be it Chriſt be Preached here or there, we rejoyce and will rejoyce.</p>
+            <p>Again, our Aſſemblies are not ſet up in oppoſition to, but in conjunction with, or in ſubordination to thoſe in Publick; and therefore to ſuch as charge us with ſetting up Altars and Churches in a way of Rebellion againſt the Government, and to turn away the people from fol<g ref="char:EOLhyphen"/>lowing the Lord in the way of his Worſhip in the Pariſh Churches, I anſwer as the Tribes of the Children of <hi>Ru<g ref="char:EOLhyphen"/>ben</hi> and the Children of <hi>Gad</hi> and half Tribe of <hi>Manaſſeth</hi> anſwered and ſaid (upon a like occaſion) unto the heads of the thouſands of <hi>Iſrael Joſh.</hi> 22. <hi>The Lord God of Gods, The Lord God of Gods he knoweth and</hi> Iſrael <hi>he ſhall know, if it be in Rebellion or in tranſgreſſion againſt the Lord — let the Lord himſelf require it: And if we have not rather done it for fear of this thing, ſaying, in time to come your Children might ſay unto our Children, ſaying, what have you to do with the Lord God of</hi> Iſrael? Our Governours have made the Act of Uniformity, a
+<pb n="35" facs="tcp:65230:19"/>
+Border, a Wall of Separation between us and the Confor<g ref="char:EOLhyphen"/>miſts, who are ready to ſay, ye have no part with us in the Miniſterial work or in the Pariſh Aſſemblies for the Wor<g ref="char:EOLhyphen"/>ſhip of God; If therefore we may not keep up our own <hi>Meetings,</hi> when we may not have liberty to Preach in the <hi>Churches,</hi> they ſhall make us to <hi>Ceaſe from fearing the Lord.</hi>
+            </p>
+            <p>And again I anſwer, The Harveſt is great, the Labor<g ref="char:EOLhyphen"/>ers few, and Souls are precious; Go therefore where you will, it ſhall not offend, but pleaſe me, if the Net of the Goſpel may be ſpread, and bring you into Chriſt by their Miniſtry or ours. But take heed of this dividing principle which ſome I ſee are acted by, of forſaking the Miniſtry and Ordinances of Chriſt, and the Com<g ref="char:EOLhyphen"/>munion of Saints, as ſoon as a form of prayer is uſed in any part of their worſhip: If God accept ſuch worſhip and worſhippers, (as no doubt but he doth where they lift up holy hands with pure hearts to him) he will not be very well pleaſed with ſuch as reject them: And let me intreat you to conſider whether this dividing prin<g ref="char:EOLhyphen"/>ciple will lead you: As ſoon as our Governours ſhall be pleaſed to open the Church doors a little wider, and the Non-Conformiſts ſhall generally do the ſame thing that now I have done, you will then either repent of your Error, or if you perſiſt in it, you will forſake their Aſ<g ref="char:EOLhyphen"/>ſemblies alſo, as ſoon as a form of Prayer (according to your fancy) hath polluted them, and then I dread to think where I may quickly find you. Either among the deluded Quakers, to caſt off all Miniſters and Ordi<g ref="char:EOLhyphen"/>nances; or among the Papiſts or Atheiſts, (of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Religion or no Religion, for they are much alike)
+<pb n="36" facs="tcp:65230:20"/>
+and ſo to lay aſide the common principles of Morality, and act contrary to the very light of Nature as well as Scrip<g ref="char:EOLhyphen"/>ture. But I hope better things of you (whom eſpecially and particularly I write this to) even things that accom<g ref="char:EOLhyphen"/>pany Salvation: And therefore as a means for that end I warn you, yea, in the words of the Apoſtle, Rom. 16.17.18. <hi>I beſeech you Brethren, mark them which cauſe diviſions and offences contrary to the Doctrine which ye have learned, and avoid them; for they that are ſuch, ſerve not our Lord Jeſus Chriſt, but their own belly, and by good words and fair ſpeeches deceive the hearts of the ſimple.</hi>
+            </p>
+            <p>What may be the reſult of this leading example, God only knows, and time muſt diſcover: Be it what it will, I am not much concern'd, <hi>having I truſt a good Conſcience</hi> (in this matter,) <hi>in all things willingly to live honeſtly.</hi> Duty is our part, the Iſſues or Events of things belong unto God: But ſomething apepars above board already.</p>
+            <p>On the one ſide the wrathful and prophane, finding me out of the reach of the Conventicle Act, that they cannot hurt me, no nor hinder my work that way, have this laſt week put me into the Biſhops Court; from whom nothing leſs than <hi>Excommunication,</hi> yea, and a Goal, if poſſible, can be expected. Though we yeild as far as we can in things lawful, there is no Union, no Peace nor agreement to be had with ſuch men.</p>
+            <p>On the other ſide, there are ſome among our ſelves of dividing and unpeaceable Principles and Spirits; who ſeem to be ſo incurably prejudiced as to reſolve they <hi>will have no Communion with ſuch Miniſters or Churches,</hi> who in ſome little things croſs their humour, and do there<g ref="char:EOLhyphen"/>fore
+<pb n="37" facs="tcp:65230:20"/>
+begin to <hi>excommunicate themſelves,</hi> before they have ſo much as heard what is to be ſaid in the Caſe. Theſe are people, who are <hi>wiſer in their own conceit then ſeven men that can render a Reaſon.</hi> I have given you the names of ſix already (<hi>Nye, Owen, Tombs, Ball, Baxter,</hi> and <hi>Corbet</hi>) I will add a ſeventh, Dr. <hi>Thomas Goodwin (one among the firſt three</hi> of the Independents) who in his Works lately printed in Folio on the <hi>Epheſians Serm.</hi> 36. <hi>pag.</hi> 488. hath theſe Words. <q>Whereas now in ſome of the Pariſhes of this Kingdom there are ma<g ref="char:EOLhyphen"/>ny godly men, that do conſtantly give themſelves up to the worſhip of God, and meet together in one place to that end, in a conſtant way, under a godly Miniſter, whom they themſelves have choſen to cleave to (though they did not chooſe him at firſt,) Theſe, notwithſtand- their mixture and want of diſcipline, I never thought for my part, but that they were true Churches of Chriſt. <hi>Again, pag.</hi> 489. So that I profeſs my ſelf as zealous in this point, as in any other I know: And for my part this I ſay, and I ſay it with much integrity, I never took up Religion by Parties in the lump: I have found by trial of all things, that there is ſome Truth on all ſides; I have found holineſs, where you would lit<g ref="char:EOLhyphen"/>tle think it, and ſo likewiſe Truth: And I have lear<g ref="char:EOLhyphen"/>ned this principle, which, I hope, I ſhall never lay down till I am ſwallowed up in immortality, and that is, to acknowledge every good thing, and hold communion with it in men, in Churches or whatſoever elſe. My Bre<g ref="char:EOLhyphen"/>thren, This Rule (which I profeſs I have lived by and ſhall do while I live) I know I ſhall never pleaſe men in: For this is the Nature and condition of all Mankind; if
+<pb n="38" facs="tcp:65230:21"/>
+a man diſſent from others in one thing, he croſſeth the in all the reſt: and therefore if a man take what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good of all ſides he is apt to croſs them all, but he pleaſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt by it: and ſo I will for this particular.</q>
+            </p>
+            <p>To return and to conclude you ſee how the Church <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt is divided and broke to peices by one and the oth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> party abovementioned: I ſtand alone in the front, and am in danger on both ſides: Give me leave to ſpeak i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jehoſophats</hi> words, <hi>O my God, wilt thou not judg tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for I have no might againſt this great Company that comet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt me, neither know I what to do, but mine eyes ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon thee.</hi>
+            </p>
+            <p>I will yet take heart and further incourage my ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from the words of a Soldier, whoſe valour I ſee I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need in this caſe. <hi>When</hi> Joab <hi>ſaw that the front of the Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tle was againſt him, before and behind, he put the cho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> men in array; and ſaid be of good courage, and let us play the men, for our people, and for the Cities of our God, and the Lord do what ſeemeth him good.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Febr. 23. 1681.</date> 
+                  <hi>From my Study in great</hi> Ruſ<g ref="char:EOLhyphen"/>ſel <hi>Street,</hi> Bloomsbury.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
